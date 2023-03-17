@@ -1,0 +1,4 @@
+user=node
+host=voting.cc
+root_dir=/home/node/workspace/github.com/beenotung/voting-server
+pm2_name="voting"

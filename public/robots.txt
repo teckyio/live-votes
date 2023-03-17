@@ -1,0 +1,17 @@
+# Default Group
+User-agent: *
+
+## TODO auto generate from routes with meta data?
+Allow: /
+Allow: /about
+Allow: /about/markdown
+Disallow: /vote
+Disallow: /poll
+Allow: /cookie-session
+Disallow: /cookie-session/*
+Allow: /chatroom
+Disallow: /chatroom/*
+Allow: /user-agents
+
+# Sitemap: http://localhost:8100/sitemap.xml
+# Reference: https://www.xml-sitemaps.com
