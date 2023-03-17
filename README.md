@@ -2,9 +2,9 @@
 
 聽講用 liveview 唔使寫 ajax ？！
 
-今次會同大家用 ts-liveview，開發即時更新的投票 webapp ～
+今次會同大家用 ts-liveview，全棧開發 (fullstack develop) 即時更新的投票 web application ～
 
-Youtube Live Video: [【Tecky Live】用 ts-liveview 開發即時更新的投票 webapp](https://www.youtube.com/watch?v=IYCSZoO7VkM)
+Youtube Live Video: [【Tecky Live】用 ts-liveview 全棧開發即時更新的投票 webapp](https://www.youtube.com/watch?v=IYCSZoO7VkM)
 
 ```
 Timestamps:
